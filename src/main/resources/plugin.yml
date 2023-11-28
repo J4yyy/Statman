@@ -1,0 +1,12 @@
+name: Statman
+version: '${project.version}'
+main: de.justin.statman.Statman
+api-version: 1.19
+prefix: Statman
+authors: [ Jayy ]
+description: Plugin for monitoring the Server performance
+website: https://shandalar.de/
+
+commands:
+  tlog:
+    usage: /tlog create|start|stop
